@@ -1,0 +1,8 @@
+# sphinx_rtd_theme
+# sphinx-book-theme
+sphinxcontrib-katex
+# sphinx-tabs
+sphinx-copybutton
+sphinx-proof
+#-e git+https://github.com/li-weihua/sphinx-proof.git#egg=sphinx_proof
+myst-parser
